@@ -1,0 +1,8 @@
+/* Cor para notas numa pasta específica */
+.graph-view.color-fill[data-path^="BeWhyOrg"] {
+    fill: #ff0000; /* Vermelho para BeWhyOrg */
+}
+/* Cor por tag */
+.graph-view.color-fill[data-tag="#escola"] {
+    fill: #00ff00; /* Verde para #escola */
+}

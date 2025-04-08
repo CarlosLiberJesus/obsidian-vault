@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "tasks",
+    "S - Checkboxes",
+    "calendar-events",
+    "wider-text",
+    "obsidian-dots"
+  ],
+  "showViewHeader": true
+}

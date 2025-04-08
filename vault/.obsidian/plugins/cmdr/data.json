@@ -1,0 +1,44 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:runQuickAdd",
+      "icon": "lucide-plus",
+      "name": "QuickAdd: Run QuickAdd",
+      "mode": "any",
+      "color": "#00ff4c"
+    },
+    {
+      "id": "callout-manager:manage-callouts",
+      "icon": "lucide-alert-triangle",
+      "name": "Callout Manager: Edit callouts",
+      "mode": "any",
+      "color": "#e9e10c"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

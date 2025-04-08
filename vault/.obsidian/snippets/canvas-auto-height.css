@@ -1,0 +1,8 @@
+/* .obsidian/snippets/canvas-auto-height.css */
+.canvas-node-content {
+  height: auto !important;
+  min-height: 100px;
+}
+.canvas-node {
+  height: auto !important;
+}

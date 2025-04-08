@@ -1,0 +1,9 @@
+.dataview.table-view-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.dataview.table-view-table th, .dataview.table-view-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+

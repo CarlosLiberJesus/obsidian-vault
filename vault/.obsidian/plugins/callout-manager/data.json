@@ -1,0 +1,108 @@
+{
+  "callouts": {
+    "custom": [
+      "horario",
+      "tarefas",
+      "atraso",
+      "reunioes",
+      "amanha",
+      "para-a-semana"
+    ],
+    "settings": {
+      "horario": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-clock",
+            "color": "171, 178, 181"
+          }
+        }
+      ],
+      "tarefas": [
+        {
+          "changes": {
+            "icon": "lucide-list",
+            "color": "170, 238, 178"
+          }
+        }
+      ],
+      "atraso": [
+        {
+          "changes": {
+            "icon": "lucide-bell-electric"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "241, 14, 14"
+          }
+        }
+      ],
+      "reunioes": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-clock"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "156, 64, 247"
+          }
+        }
+      ],
+      "amanha": [
+        {
+          "changes": {
+            "icon": "lucide-blinds"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "para-a-semana": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-check",
+            "color": "208, 181, 48"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
