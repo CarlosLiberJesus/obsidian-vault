@@ -4,109 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4b4a07b8716d95",
+        "id": "f6771d16d2b05e0c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c85104cec188bdd",
+            "id": "f9394498e8beac7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "6a228b4c7bf19142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Planeamento/Fase 1/Fase 1.md",
+                "file": "BeWhyOrg/Local/LLMs/LLM Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fase 1"
+              "title": "LLM Theory"
             }
           },
           {
-            "id": "ad6c001ad2ccef28",
+            "id": "a8de40f51ada7194",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily Logs/2025-03-15.md",
+                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-15"
+              "title": "Claude.ai"
             }
           },
           {
-            "id": "3088489f4de79bbd",
+            "id": "b622f6f217607628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola/Disciplinas/rc_Redes de Computadores.md",
+                "file": "BeWhyOrg/Local/LLMs/Local/French Mistral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rc_Redes de Computadores"
+              "title": "French Mistral"
             }
           },
           {
-            "id": "b546b64f036270e2",
+            "id": "551c52da39bce5f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Calendar Template.md",
+                "file": "BeWhyOrg/Local/LLMs/Local/Google Gemma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calendar Template"
+              "title": "Google Gemma"
             }
           },
           {
-            "id": "eb0c7650ecd5b565",
+            "id": "690da4c83af5dfac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Daily Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Daily Template"
-            }
-          },
-          {
-            "id": "1907aacb0d066fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Weekly Logs/2025-W15.md",
+                "file": "BeWhyOrg/Local/LLMs/Local/Meta LLama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W15"
+              "title": "Meta LLama"
+            }
+          },
+          {
+            "id": "e59956b7f001323d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/Local/LLMs/Local/Microsoft Phi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft Phi"
+            }
+          },
+          {
+            "id": "9f5a7ba5f5d75758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/Local/LLMs/Local/Falcon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Falcon"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,6 +149,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "c481085cf30e22d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -188,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Claude.ai"
             }
           },
           {
@@ -206,12 +217,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/Weekly Logs/2025-W15.md",
+                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-W15"
+              "title": "Outgoing links from Claude.ai"
             }
           },
           {
@@ -220,12 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Claude.ai"
             }
           },
           {
@@ -239,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c9cd5f2494e0040b",
@@ -277,7 +289,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Logs/Weekly Logs/2025-W15.md",
+                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +317,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-W15"
+              "title": "Graph of Claude.ai"
             }
           },
           {
@@ -322,26 +334,24 @@
               "title": "Obsidian"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "callout-manager:Insert Callout": true,
       "omnisearch:Omnisearch": true,
-      "homepage:Open homepage": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "templater-obsidian:Templater": true,
       "daily-notes:Open today's daily note": true,
-      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -349,46 +359,47 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af7c37e65b9891f9",
+  "active": "a8de40f51ada7194",
   "lastOpenFiles": [
-    "BeWhyOrg/Local/Docker/Install.md",
-    "BeWhyOrg/InServer/Hostinger.md",
-    "BeWhyOrg/Local/Docker",
-    "BeWhyOrg/Hostinger.md",
-    "BeWhyOrg/InServer/Frontend",
-    "BeWhyOrg/InServer/BackEnd",
-    "BeWhyOrg/InServer",
-    "Private/Local/homeCloud.md",
-    "Private/Local",
-    "BeWhyOrg/Local",
-    "BeWhyOrg/Server/Frontend",
-    "BeWhyOrg/Server/BackEnd",
-    "Estado",
-    "BeWhyOrg/Frontend",
-    "Logs/Daily Logs/2025-04-08.md",
-    "Logs/Weekly Logs/2025-W15.md",
-    "Template/Weekly Template.md",
-    "Template/Daily Template.md",
-    "Template/Calendar Template.md",
-    "Template/Disciplina Template.md",
-    "Template/Turma Template.md",
-    "Template/Modulo Template.md",
-    "BeWhyOrg/lumen-back/best-practices-v1.md",
-    "BeWhyOrg/lumen-back/Lumen-Back.md",
-    "BeWhyOrg/swap_dretretas/php/Wikidata.md",
-    "BeWhyOrg/BeWhyOrg.md",
-    "Logs/Daily Logs/2025-03-21.md",
-    "Escola/Modulos/rc_0771_Conexões de rede.md",
-    "Escola/Disciplinas/rc_Redes de Computadores.md",
-    "Logs/Daily Logs/2025-03-15.md",
-    "Pesquisar/AI.md",
+    "BeWhyOrg/Local/LLMs/LLM Theory.md",
+    "BeWhyOrg/Local/LLMs/Local/Microsoft Phi.md",
+    "BeWhyOrg/Local/LLMs/Local/Falcon.md",
+    "BeWhyOrg/Local/LLMs/Local/Meta LLama.md",
+    "BeWhyOrg/Local/LLMs/Local/Google Gemma.md",
+    "BeWhyOrg/Local/LLMs/Local/French Mistral.md",
+    "BeWhyOrg/Local/LLMs/LLM Review.md",
+    "BeWhyOrg/Local/LLMs/Local/DeepSeek.md",
+    "BeWhyOrg/Local/LLMs/Local/Alibaba Qwen.md",
+    "BeWhyOrg/Local/LLMs/Claude.ai.md",
+    "BeWhyOrg/Local/AI/Hardware.md",
+    "BeWhyOrg/Local/AI/Best Practices.md",
+    "BeWhyOrg/Local/LLMs/Other Providers/OpenRouter.md",
+    "BeWhyOrg/Local/Apps/Extensions/Cline.md",
+    "assets/Cline Provider OpenAi Compatible.png",
+    "BeWhyOrg/Local/LLMs/Hardware Providers/AWS Bedrock.md",
+    "BeWhyOrg/Local/LLMs/Local",
+    "BeWhyOrg/Local/LLMs/Google Gemini.md",
+    "BeWhyOrg/Local/AI/Local Runners/Ollama.md",
+    "BeWhyOrg/Local/MCPs/firecrawl-mcp-webcraller.md",
+    "BeWhyOrg/Local/MCPs/obsidian-mcp-server.md",
+    "BeWhyOrg/Local/MCPs/anthropic-puppeter-webcraller.md",
+    "Private/Introduction.md",
+    "Private/Local/Local GPU.md",
+    "BeWhyOrg/Local/AI/Local Runners/LiteLLM.md",
+    "BeWhyOrg/Local/AI/Local Runners/LMStudio.md",
+    "BeWhyOrg/Local/LLMs/Hardware Providers",
+    "BeWhyOrg/Local/AI/Local Runners",
+    "BeWhyOrg/Local/LLMs/Other Providers/Requesty.md",
+    "BeWhyOrg/Local/LLMs/Other Providers/OpenAI Compatible.md",
+    "BeWhyOrg/Local/LLMs/Other Providers",
+    "BeWhyOrg/Local/Tech-Stack",
+    "BeWhyOrg/Local/Apps/Extensions",
+    "BeWhyOrg/Local/Apps",
+    "BeWhyOrg/Local/LLMs",
+    "BeWhyOrg/Local/MCPs",
+    "BeWhyOrg/Local/AI",
     "assets/AI_numeros de modelos.png",
-    "Logs/Daily Logs/2025-03-12.md",
-    "BeWhyOrg/Planeamento/Fase 1/Fase 1.md",
-    "Homepage.md",
     "Logs/Mapa Semanal Kanbam.canvas",
-    "Logs/Daily Logs/2025-03-11.md",
-    "Logs/Daily Logs/2025-03-10.md",
     "BeWhyOrg/BeWhyOrg.canvas",
     "Estado/Estrutura Estado.canvas",
     "assets/Database/Cidadao.png",
@@ -399,7 +410,6 @@
     "assets/Database/Leis.png",
     "assets/Database/Laravel Default.png",
     "assets/Database/Instituições.png",
-    "assets/Database/Kernel.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

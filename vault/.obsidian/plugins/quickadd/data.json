@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{Value:🔺, ⏫, 🔼, , 🔽, ⏬}} {{Value:Task name}} #task [startTime:: 08:00] [endTime:: 09:00] 📅 {{VDate:Due date, YYYY-MM-DD}}  \\n"
+        "format": "- [ ] {{Value:🔺, ⏫, 🔼, , 🔽, ⏬}} {{Value:Task name}} #task 📅 {{VDate:Due date, YYYY-MM-DD}}  \\n"
       },
       "insertAfter": {
         "enabled": true,

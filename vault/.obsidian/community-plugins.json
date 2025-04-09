@@ -32,5 +32,6 @@
   "obsidian-paste-image-rename",
   "vault-size-history",
   "dashboard-navigator",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-local-rest-api"
 ]
