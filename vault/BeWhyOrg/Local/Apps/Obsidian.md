@@ -31,8 +31,8 @@ So for to have a better experience, you should also install the plugins... But t
 ### Has An LLM
 
 Each source-code part in a lego in a bigger architecture, so when I have VSCode open, I will only have context to
-- [[BeWhyOrg/InServer/Backend/Laravel]]
-- [[BeWhyOrg/InServer/Frontend/Angular]]
+- [[Laravel API]]
+- [[Angular Metronic]]
 
 Is the folder that contains the framework/layer. So hopefully we will be able to auto-generate logs directly com VSCode Agent and grow the context it self.
 - [[Releases]]

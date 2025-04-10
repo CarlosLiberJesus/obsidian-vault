@@ -1,84 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Claude.ai",
-      "path": "BeWhyOrg/Local/LLMs/Claude.ai.md"
-    },
-    {
-      "basename": "LLM Theory",
-      "path": "BeWhyOrg/Local/LLMs/LLM Theory.md"
-    },
-    {
-      "basename": "Microsoft Phi",
-      "path": "BeWhyOrg/Local/LLMs/Local/Microsoft Phi.md"
-    },
-    {
-      "basename": "Falcon",
-      "path": "BeWhyOrg/Local/LLMs/Local/Falcon.md"
-    },
-    {
-      "basename": "Meta LLama",
-      "path": "BeWhyOrg/Local/LLMs/Local/Meta LLama.md"
-    },
-    {
-      "basename": "Google Gemma",
-      "path": "BeWhyOrg/Local/LLMs/Local/Google Gemma.md"
-    },
-    {
-      "basename": "French Mistral",
-      "path": "BeWhyOrg/Local/LLMs/Local/French Mistral.md"
-    },
-    {
-      "basename": "LLM Review",
-      "path": "BeWhyOrg/Local/LLMs/LLM Review.md"
-    },
-    {
-      "basename": "DeepSeek",
-      "path": "BeWhyOrg/Local/LLMs/Local/DeepSeek.md"
-    },
-    {
-      "basename": "Alibaba Qwen",
-      "path": "BeWhyOrg/Local/LLMs/Local/Alibaba Qwen.md"
-    },
-    {
-      "basename": "Hardware",
-      "path": "BeWhyOrg/Local/AI/Hardware.md"
-    },
-    {
-      "basename": "Best Practices",
-      "path": "BeWhyOrg/Local/AI/Best Practices.md"
-    },
-    {
-      "basename": "OpenRouter",
-      "path": "BeWhyOrg/Local/LLMs/Other Providers/OpenRouter.md"
-    },
-    {
-      "basename": "Cline",
-      "path": "BeWhyOrg/Local/Apps/Extensions/Cline.md"
-    },
-    {
-      "basename": "AWS Bedrock",
-      "path": "BeWhyOrg/Local/LLMs/Hardware Providers/AWS Bedrock.md"
+      "basename": "In Research",
+      "path": "BeWhyOrg/Local/AI/In Research.md"
     },
     {
       "basename": "Ollama",
       "path": "BeWhyOrg/Local/AI/Local Runners/Ollama.md"
     },
     {
-      "basename": "firecrawl-mcp-webcraller",
-      "path": "BeWhyOrg/Local/MCPs/firecrawl-mcp-webcraller.md"
+      "basename": "Google Review",
+      "path": "BeWhyOrg/Local/AI/LLMs/External Services/Google Review.md"
     },
     {
-      "basename": "obsidian-mcp-server",
-      "path": "BeWhyOrg/Local/MCPs/obsidian-mcp-server.md"
+      "basename": "LLM Size, Parameters and Quantization Guide",
+      "path": "BeWhyOrg/Local/AI/School/LLM Size, Parameters and Quantization Guide.md"
     },
     {
-      "basename": "anthropic-puppeter-webcraller",
-      "path": "BeWhyOrg/Local/MCPs/anthropic-puppeter-webcraller.md"
+      "basename": "LLM Theory",
+      "path": "BeWhyOrg/Local/AI/LLMs/LLM Theory.md"
+    },
+    {
+      "basename": "LMStudio",
+      "path": "BeWhyOrg/Local/AI/Local Runners/LMStudio.md"
     },
     {
       "basename": "Introduction",
       "path": "Private/Introduction.md"
+    },
+    {
+      "basename": "2025-04-10",
+      "path": "Logs/Daily Logs/2025-04-10.md"
+    },
+    {
+      "basename": "Releases",
+      "path": "BeWhyOrg/InServer/Releases.md"
+    },
+    {
+      "basename": "Angular Metronic",
+      "path": "BeWhyOrg/InServer/Frontend/Angular Metronic.md"
+    },
+    {
+      "basename": "Laravel API",
+      "path": "BeWhyOrg/InServer/Backend/Laravel API.md"
+    },
+    {
+      "basename": "Cline",
+      "path": "BeWhyOrg/Local/Apps/Extensions/Cline.md"
+    },
+    {
+      "basename": "Best Practices",
+      "path": "BeWhyOrg/Local/AI/Best Practices.md"
     },
     {
       "basename": "Angular",
@@ -89,28 +61,64 @@
       "path": "BeWhyOrg/Local/Tech-Stack/Laravel.md"
     },
     {
-      "basename": "Obsidian",
-      "path": "BeWhyOrg/Local/Apps/Obsidian.md"
+      "basename": "MCP Reviews",
+      "path": "BeWhyOrg/Local/AI/MCPs/MCP Reviews.md"
     },
     {
-      "basename": "VSCode",
-      "path": "BeWhyOrg/Local/Apps/VSCode.md"
+      "basename": "LLM Review",
+      "path": "BeWhyOrg/Local/AI/LLMs/LLM Review.md"
     },
     {
-      "basename": "Augment",
-      "path": "BeWhyOrg/Local/Apps/Extensions/Augment.md"
+      "basename": "obsidian-mcp-server",
+      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
     },
     {
-      "basename": "Qodo",
-      "path": "BeWhyOrg/Local/Apps/Extensions/Qodo.md"
+      "basename": "anthropic-puppeter-webcraller",
+      "path": "BeWhyOrg/Local/AI/MCPs/List/anthropic-puppeter-webcraller.md"
     },
     {
       "basename": "2025-04-09",
       "path": "Logs/Daily Logs/2025-04-09.md"
     },
     {
-      "basename": "Docker",
-      "path": "BeWhyOrg/Local/Apps/Docker.md"
+      "basename": "Obsidian",
+      "path": "BeWhyOrg/Local/Apps/Obsidian.md"
+    },
+    {
+      "basename": "All Checkboxs",
+      "path": "assets/Obsidian/All Checkboxs.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "assets/Obsidian/Callouts.md"
+    },
+    {
+      "basename": "2025-04-08",
+      "path": "Logs/Daily Logs/2025-04-08.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "BeWhyOrg/Local/AI/Hardware.md"
+    },
+    {
+      "basename": "Test Local Apps",
+      "path": "Private/Local/Test Local Apps.md"
+    },
+    {
+      "basename": "homeCloud",
+      "path": "Private/Local/homeCloud.md"
+    },
+    {
+      "basename": "Meta LLama",
+      "path": "BeWhyOrg/Local/AI/LLMs/Local/Meta LLama.md"
+    },
+    {
+      "basename": "Claude.ai",
+      "path": "BeWhyOrg/Local/AI/LLMs/Claude.ai.md"
+    },
+    {
+      "basename": "DeepSeek",
+      "path": "BeWhyOrg/Local/AI/LLMs/Local/DeepSeek.md"
     }
   ],
   "omittedPaths": [],

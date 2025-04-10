@@ -1,5 +1,10 @@
 # Introduction
 
+This page is to optimise research so far, and start a place where we can agregate pages/services that can hold several models.
+
+
+## OpenRouter
+
 OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and selecting the most cost-effective options. Get started with just a few lines of code using your preferred SDK or framework.
 
 Homepage: [Homepage](https://openrouter.ai/)

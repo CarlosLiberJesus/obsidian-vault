@@ -4,7 +4,7 @@ Welcome to LLM World, we needed some better Obsidian Graph, less files; all this
 
 We are dividing into 2 groups. The ones we can run locally and will have more info, as the one that can only be by API requests, therefor payed. Reminder to add 
 
-The only that says in the middle so far is [[Claude.ai]] for being the father of MCPs, and have monitor him. Honor mention to Grok3, and it's WebUi.
+The only that says in the middle so far is [[Claude.ai]] for being the father of MCPs, and have monitor him. Honor mention to Grok3, and it's WebUi. [[Google Review]] Freemium tools also can have data to explore
 
 ## Local LLM
 
@@ -44,14 +44,6 @@ These could expand your options, especially if you explore Ollama’s library or
 - Status: API access only, paid (free tier is too limited, e.g., 200K tokens/day). Last on your list due to its restrictions.
 - Local Deployment: Not possible—GPT models are proprietary.
 - Priority: Low. You’ll drop OpenAI as it doesn’t align with your local deployment goal.
-
-
-## MCPs
-
-### [[obsidian-mcp-server]]
-### [[anthropic-puppeter-webcraller]]
-### [[firecrawl-mcp-webcraller]]
-
 
 ## Super Agents?
 

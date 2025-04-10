@@ -2,7 +2,11 @@
 
 Cline as a Plugins Mixes LLM API providers + the MCP Config we might build/use. Not the problem, but how it works, MCP themselves will also contribute to token explosion since LLM will tend to grab more info for context.
 
-Here we see how money will talk in the future, if every question is 3cents (to test with Cline). So review the [[LLM Review]], the goal of the file was to start analysis of demos keys/cost, that we broke them all, and evolving to [[Ollama]] local requirement
+Here we see how money will talk in the future, if every question is 3cents (to test with Cline). So review the [[LLM Review]], the goal of the file was to start analysis of demos keys/cost, that we broke them all, and evolving to [[Ollama]] local requirement.
+
+## Best Practice
+
+Was Cline in first demos that started to request `best_practices.md` within the project, together with the source. So I added one, but further prompt studies, actually should add more, as set examples in [[BeWhyOrg/Local/Tech-Stack/Laravel|Laravel]]
 
 ## API Providers
 
@@ -23,11 +27,11 @@ So we devider the Providers in types, some will require more details then others
 #### SambaNova
 
 
-### 2. Model Aggregators/Marketplaces
+### 2. [[Model Aggregadors]]/Marketplaces
 
 A Happy reminder to keep digging for better price (renting GPU or renting LLMs)
 
-#### [[OpenRouter]]
+#### OpenRouter
 
 #### Requesty
 

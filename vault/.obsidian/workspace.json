@@ -4,109 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f6771d16d2b05e0c",
+        "id": "dbfba278d997edb5",
         "type": "tabs",
         "children": [
           {
-            "id": "f9394498e8beac7e",
+            "id": "5d63f6c621aeebe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/LLM Theory.md",
+                "file": "BeWhyOrg/Local/AI/School/LLM Size, Parameters and Quantization Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Theory"
+              "title": "LLM Size, Parameters and Quantization Guide"
             }
           },
           {
-            "id": "a8de40f51ada7194",
+            "id": "7358710923a566f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
+                "file": "BeWhyOrg/Local/AI/LLMs/External Services/Google Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude.ai"
+              "title": "Google Review"
             }
           },
           {
-            "id": "b622f6f217607628",
+            "id": "24b196df37bc6285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Local/French Mistral.md",
+                "file": "BeWhyOrg/Local/AI/Local Runners/Ollama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "French Mistral"
+              "title": "Ollama"
             }
           },
           {
-            "id": "551c52da39bce5f5",
+            "id": "e844819428eddd4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Local/Google Gemma.md",
+                "file": "BeWhyOrg/Local/AI/In Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Gemma"
-            }
-          },
-          {
-            "id": "690da4c83af5dfac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/LLMs/Local/Meta LLama.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meta LLama"
-            }
-          },
-          {
-            "id": "e59956b7f001323d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/LLMs/Local/Microsoft Phi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Microsoft Phi"
-            }
-          },
-          {
-            "id": "9f5a7ba5f5d75758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/LLMs/Local/Falcon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Falcon"
+              "title": "In Research"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wiki",
+                "query": "WebUi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
+                "file": "BeWhyOrg/InServer/Releases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Claude.ai"
+              "title": "Backlinks for Releases"
             }
           },
           {
@@ -217,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
+                "file": "BeWhyOrg/InServer/Releases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Claude.ai"
+              "title": "Outgoing links from Releases"
             }
           },
           {
@@ -231,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
+                "file": "BeWhyOrg/Local/AI/In Research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Claude.ai"
+              "title": "Outline of In Research"
             }
           },
           {
@@ -289,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BeWhyOrg/Local/LLMs/Claude.ai.md",
+                "file": "BeWhyOrg/Local/AI/In Research.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Claude.ai"
+              "title": "Graph of In Research"
             }
           },
           {
@@ -339,7 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,45 +317,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8de40f51ada7194",
+  "active": "e844819428eddd4a",
   "lastOpenFiles": [
-    "BeWhyOrg/Local/LLMs/LLM Theory.md",
-    "BeWhyOrg/Local/LLMs/Local/Microsoft Phi.md",
-    "BeWhyOrg/Local/LLMs/Local/Falcon.md",
-    "BeWhyOrg/Local/LLMs/Local/Meta LLama.md",
-    "BeWhyOrg/Local/LLMs/Local/Google Gemma.md",
-    "BeWhyOrg/Local/LLMs/Local/French Mistral.md",
-    "BeWhyOrg/Local/LLMs/LLM Review.md",
-    "BeWhyOrg/Local/LLMs/Local/DeepSeek.md",
-    "BeWhyOrg/Local/LLMs/Local/Alibaba Qwen.md",
-    "BeWhyOrg/Local/LLMs/Claude.ai.md",
-    "BeWhyOrg/Local/AI/Hardware.md",
-    "BeWhyOrg/Local/AI/Best Practices.md",
-    "BeWhyOrg/Local/LLMs/Other Providers/OpenRouter.md",
-    "BeWhyOrg/Local/Apps/Extensions/Cline.md",
-    "assets/Cline Provider OpenAi Compatible.png",
-    "BeWhyOrg/Local/LLMs/Hardware Providers/AWS Bedrock.md",
-    "BeWhyOrg/Local/LLMs/Local",
-    "BeWhyOrg/Local/LLMs/Google Gemini.md",
     "BeWhyOrg/Local/AI/Local Runners/Ollama.md",
-    "BeWhyOrg/Local/MCPs/firecrawl-mcp-webcraller.md",
-    "BeWhyOrg/Local/MCPs/obsidian-mcp-server.md",
-    "BeWhyOrg/Local/MCPs/anthropic-puppeter-webcraller.md",
-    "Private/Introduction.md",
-    "Private/Local/Local GPU.md",
-    "BeWhyOrg/Local/AI/Local Runners/LiteLLM.md",
+    "BeWhyOrg/Local/AI/LLMs/External Services/Google Review.md",
+    "BeWhyOrg/Local/AI/School/LLM Size, Parameters and Quantization Guide.md",
+    "BeWhyOrg/Local/AI/In Research.md",
+    "BeWhyOrg/Local/AI/LLMs/LLM Theory.md",
+    "BeWhyOrg/Local/AI/School",
     "BeWhyOrg/Local/AI/Local Runners/LMStudio.md",
-    "BeWhyOrg/Local/LLMs/Hardware Providers",
+    "Private/Introduction.md",
+    "Logs/Daily Logs/2025-04-10.md",
+    "BeWhyOrg/InServer/Releases.md",
+    "BeWhyOrg/InServer/Frontend/Angular Metronic.md",
+    "BeWhyOrg/InServer/Backend/Laravel API.md",
+    "BeWhyOrg/Local/Apps/Extensions/Cline.md",
+    "BeWhyOrg/Local/AI/Best Practices.md",
+    "BeWhyOrg/Local/Tech-Stack/Angular.md",
+    "BeWhyOrg/Local/Tech-Stack/Laravel.md",
+    "BeWhyOrg/Local/AI/MCPs/MCP Reviews.md",
+    "BeWhyOrg/Local/AI/LLMs/LLM Review.md",
+    "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
+    "BeWhyOrg/Local/AI/MCPs/List",
+    "BeWhyOrg/Local/AI/MCPs/List/anthropic-puppeter-webcraller.md",
+    "Logs/Daily Logs/2025-04-09.md",
+    "BeWhyOrg/Local/Apps/Obsidian.md",
+    "assets/Obsidian/All Checkboxs.md",
+    "assets/Obsidian/Callouts.md",
+    "Logs/Daily Logs/2025-04-08.md",
+    "BeWhyOrg/Local/AI/Hardware.md",
+    "Private/Local/Test Local Apps.md",
+    "assets/Cline Provider OpenAi Compatible.png",
+    "BeWhyOrg/Local/AI/LLMs/Local",
+    "BeWhyOrg/Local/AI/LLMs/Hardware Providers",
     "BeWhyOrg/Local/AI/Local Runners",
-    "BeWhyOrg/Local/LLMs/Other Providers/Requesty.md",
-    "BeWhyOrg/Local/LLMs/Other Providers/OpenAI Compatible.md",
-    "BeWhyOrg/Local/LLMs/Other Providers",
+    "BeWhyOrg/Local/AI/LLMs/External Services",
     "BeWhyOrg/Local/Tech-Stack",
     "BeWhyOrg/Local/Apps/Extensions",
     "BeWhyOrg/Local/Apps",
-    "BeWhyOrg/Local/LLMs",
-    "BeWhyOrg/Local/MCPs",
-    "BeWhyOrg/Local/AI",
+    "BeWhyOrg/Local/AI/LLMs",
     "assets/AI_numeros de modelos.png",
     "Logs/Mapa Semanal Kanbam.canvas",
     "BeWhyOrg/BeWhyOrg.canvas",
