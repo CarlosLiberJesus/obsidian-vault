@@ -51,7 +51,7 @@ If I want to use [[Claude.ai]] (or other LLM) instead of Ollama could install Li
     - Ensure your Obsidian MCP server is running:
 
 ```bash
-cd ~/MPCs/obsidian-mcp-server
+cd ~/MCPs/obsidian-mcp-server
 npm start
 ```
 

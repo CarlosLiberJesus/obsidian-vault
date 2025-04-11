@@ -47,7 +47,7 @@ LLMs will only progress tasks through these statuses:
 - Action [ ] → Planeamento [B] → In Progress [d] → Testes [?]
 
 Only humans should mark tasks as:
-- Terminado [-] → Done [x]
+- Terminado [-]
 
 ## Folder Structure
 

@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-04-11",
-      "path": "Logs/Daily-Logs/2025-04-11.md"
-    },
-    {
       "basename": "Augment",
       "path": "BeWhyOrg/Local/Apps/Extensions/Augment.md"
     },
     {
-      "basename": "Example-Task",
-      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md"
+      "basename": "2025-W15",
+      "path": "Logs/Weekly-Logs/2025-W15.md"
+    },
+    {
+      "basename": "2025-04-11",
+      "path": "Logs/Daily-Logs/2025-04-11.md"
+    },
+    {
+      "basename": "2025-04-08",
+      "path": "Logs/Daily-Logs/2025-04-08.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "BeWhyOrg/Local/Apps/Docker.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Private/Introduction.md"
     },
     {
       "basename": "MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions",
       "path": "Logs/Tasks/MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions.md"
+    },
+    {
+      "basename": "Ollama",
+      "path": "BeWhyOrg/Local/AI/Local-Runners/Ollama.md"
+    },
+    {
+      "basename": "obsidian-mcp-server",
+      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "BeWhyOrg/Local/AI/Hardware.md"
+    },
+    {
+      "basename": "MSTY",
+      "path": "BeWhyOrg/Local/Apps/MSTY.md"
+    },
+    {
+      "basename": "oobabooga",
+      "path": "BeWhyOrg/Local/AI/Local-Runners/oobabooga.md"
+    },
+    {
+      "basename": "Releases",
+      "path": "BeWhyOrg/InServer/Releases.md"
+    },
+    {
+      "basename": "LLM-Size_Parameters-and-Quantization-Guide",
+      "path": "BeWhyOrg/Local/AI/School/LLM-Size_Parameters-and-Quantization-Guide.md"
+    },
+    {
+      "basename": "Example-Task",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md"
     },
     {
       "basename": "README",
@@ -47,14 +91,6 @@
     {
       "basename": "Task-Creation-Tutorial",
       "path": "BeWhyOrg/Local/AI/School/Task-Creation-Tutorial.md"
-    },
-    {
-      "basename": "LLM-Size_Parameters-and-Quantization-Guide",
-      "path": "BeWhyOrg/Local/AI/School/LLM-Size_Parameters-and-Quantization-Guide.md"
-    },
-    {
-      "basename": "obsidian-mcp-server",
-      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
     },
     {
       "basename": "MCP-Reviews",
@@ -109,10 +145,6 @@
       "path": "assets/Obsidian/all-checkboxs.md"
     },
     {
-      "basename": "2025-04-08",
-      "path": "Logs/Daily-Logs/2025-04-08.md"
-    },
-    {
       "basename": "2025-04-09",
       "path": "Logs/Daily-Logs/2025-04-09.md"
     },
@@ -121,24 +153,12 @@
       "path": "BeWhyOrg/Local/Apps/Extensions/Cline.md"
     },
     {
-      "basename": "Ollama",
-      "path": "BeWhyOrg/Local/AI/Local-Runners/Ollama.md"
-    },
-    {
       "basename": "LMStudio",
       "path": "BeWhyOrg/Local/AI/Local-Runners/LMStudio.md"
     },
     {
-      "basename": "Introduction",
-      "path": "Private/Introduction.md"
-    },
-    {
       "basename": "2025-04-10",
       "path": "Logs/Daily-Logs/2025-04-10.md"
-    },
-    {
-      "basename": "Releases",
-      "path": "BeWhyOrg/InServer/Releases.md"
     },
     {
       "basename": "Angular",
@@ -155,10 +175,6 @@
     {
       "basename": "Obsidian",
       "path": "BeWhyOrg/Local/Apps/Obsidian.md"
-    },
-    {
-      "basename": "Hardware",
-      "path": "BeWhyOrg/Local/AI/Hardware.md"
     },
     {
       "basename": "homeCloud",

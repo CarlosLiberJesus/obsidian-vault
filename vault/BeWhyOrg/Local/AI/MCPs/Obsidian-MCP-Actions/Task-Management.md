@@ -129,6 +129,7 @@ After review, the human can:
 1. Mark the task as Terminado [-] if it's complete but needs further review
 2. Mark the task as Done [x] if it's fully complete
 3. Provide feedback and reset the status if changes are needed
+4. Update Documentation has needed
 
 ## Task Queries
 
@@ -155,4 +156,20 @@ The MCP server provides API endpoints for task management:
 
 See the [[`BeWhyOrg/Local/AI/MCP Actions/API Documentation]] for details on these endpoints.
 
+```
+
+## CRITICAL RULE
+
+When working with daily logs:
+- NEVER delete or overwrite existing content
+- ONLY append new tasks under the appropriate sections
+- When updating task status, modify ONLY the specific task's status marker
+
+Example of correct daily log update:
+```markdown
+# Existing content remains untouched...
+
+## Quick Add
+- [?] ⏫ MCP-001 Existing task remains unchanged #task/mcp
+- [ ] ⏫ MCP-002 New task being added #task/mcp
 ```

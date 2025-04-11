@@ -12,7 +12,7 @@
 ## 2. Install the Obsidian MCP Server
 
 ```bash
-git clone https://github.com/cyanheads/obsidian-mcp-server.git ~/MPCs/obsidian-mcp-server
+git clone https://github.com/cyanheads/obsidian-mcp-server.git ~/MCPs/obsidian-mcp-server
 cd ~/MCPs/obsidian-mcp-server
 npm install
 npm run build
@@ -54,7 +54,7 @@ npm start
   "mcpServers": {
     "obsidian-mcp-server": {
       "command": "node",
-      "args": ["/home/carlos/MPCs/obsidian-mcp-server/build/index.js"],
+      "args": ["/home/carlos/MCPs/obsidian-mcp-server/build/index.js"],
       "env": {
         "OBSIDIAN_API_KEY": "your_api_key_here",
         "VERIFY_SSL": "false",
@@ -78,7 +78,7 @@ nano ~/.vscode/mcp.json
   "mcpServers": {
     "obsidian-mcp-server": {
       "command": "node",
-      "args": ["/home/carlos/MPCs/obsidian-mcp-server/build/index.js"],
+      "args": ["/home/carlos/MCPs/obsidian-mcp-server/build/index.js"],
       "env": {
         "OBSIDIAN_API_KEY": "your_api_key_here",
         "VERIFY_SSL": "false",

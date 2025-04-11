@@ -14,6 +14,35 @@ Augment is an AI coding assistant extension that helps with understanding and mo
 
 ## Configuration for MCP Integration
 
+### Method 1
+
+1. Open VSCode Settings (Ctrl+Shift+P)
+2. Look for Preference: User Preferences (JSON)
+3. test it by asking about tasks....
+
+```json
+"augment.advanced": {
+	"mcpServers": [
+		{
+			"name": "obsidian-mcp-server",
+			"command": "node",
+			"args": ["/home/carlos/MCPs/obsidian-mcp-server/build/index.js"],
+			"env": {
+				"OBSIDIAN_API_KEY": "your_api_key_here",
+				"VERIFY_SSL": "false",
+				"OBSIDIAN_PROTOCOL": "https",
+				"OBSIDIAN_HOST": "127.0.0.1",
+				"OBSIDIAN_PORT": "27124",
+				"REQUEST_TIMEOUT": "5000",
+				"MAX_CONTENT_LENGTH": "52428800",
+				"MAX_BODY_LENGTH": "52428800"
+			}
+		}
+	]
+}
+```
+
+### Method 2
 To configure Augment to work with the Obsidian MCP server:
 
 1. Open VSCode Settings (Ctrl+,)
@@ -26,7 +55,7 @@ To configure Augment to work with the Obsidian MCP server:
   "mcpServers": {
     "obsidian-mcp-server": {
       "command": "node",
-      "args": ["/path/to/obsidian-mcp-server/build/index.js"],
+      "args": ["/home/carlos/MCPs/obsidian-mcp-server/build/index.js"],
       "env": {
         "OBSIDIAN_API_KEY": "your_api_key_here",
         "VERIFY_SSL": "false",

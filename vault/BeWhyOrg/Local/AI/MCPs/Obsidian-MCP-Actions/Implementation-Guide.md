@@ -665,6 +665,8 @@ function getStatusFromSymbol(symbol) {
 }
 
 function getPriorityFromSymbol(symbol) {
+  
+  if (symbol.includes('🔺')) return 'highest';
   if (symbol.includes('⏫')) return 'high';
   if (symbol.includes('🔼')) return 'medium';
   if (symbol.includes('⏬')) return 'low';
