@@ -4,7 +4,7 @@ Welcome to LLM World, we needed some better Obsidian Graph, less files; all this
 
 We are dividing into 2 groups. The ones we can run locally and will have more info, as the one that can only be by API requests, therefor payed. Reminder to add 
 
-The only that says in the middle so far is [[Claude.ai]] for being the father of MCPs, and have monitor him. Honor mention to Grok3, and it's WebUi. [[Google Review]] Freemium tools also can have data to explore
+The only that says in the middle so far is [[Claude.ai]] for being the father of MCPs, and have monitor him. Honor mention to Grok3, and it's WebUi. [[Google-Review]] Freemium tools also can have data to explore
 
 ## Local LLM
 

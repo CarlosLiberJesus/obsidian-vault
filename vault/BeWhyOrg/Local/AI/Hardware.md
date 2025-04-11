@@ -1,6 +1,6 @@
 # Introduction
 
-This file will help to map which RTX to buy, based also on [[LLM Theory]]; In [[LLM Review]] we have a list of local models, which each will try to have it's own parity of VRAM. 
+This file will help to map which RTX to buy, based also on [[LLM-Theory]]; In [[LLM-Review]] we have a list of local models, which each will try to have it's own parity of VRAM. 
 
 ## Current Set-Up
 

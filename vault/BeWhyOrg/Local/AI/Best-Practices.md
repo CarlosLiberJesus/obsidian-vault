@@ -10,11 +10,11 @@ When selecting an LLM for code interventions, consider the following factors:
 *   **Task requirements**: Choose an LLM that is well-suited for the specific task. For example, DeepSeek is known for its strong coding and reasoning abilities, while other models may excel at natural language processing.
 *   **Hardware constraints**: Ensure that the LLM can run on your available hardware. Smaller models like Phi-3 Mini and Qwen 1.5 4B can run on modest GPUs, while larger models require more powerful hardware.
 
-Refer to the [[LLM Review]] note for more information on available LLMs and their capabilities.
+Refer to the [[LLM-Review]] note for more information on available LLMs and their capabilities.
 
 ## Task Management
 
-Use the Obsidian Tasks plugin to manage code interventions with LLMs. The [[Task Creation Tutorial]] note provides detailed instructions on how to create and use tasks for this purpose.
+Use the Obsidian Tasks plugin to manage code interventions with LLMs. The [[Task-Creation-Tutorial]] note provides detailed instructions on how to create and use tasks for this purpose.
 
 ## Data Quality Checks
 

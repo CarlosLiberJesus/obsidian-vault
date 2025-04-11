@@ -2,7 +2,7 @@
 
 Cline as a Plugins Mixes LLM API providers + the MCP Config we might build/use. Not the problem, but how it works, MCP themselves will also contribute to token explosion since LLM will tend to grab more info for context.
 
-Here we see how money will talk in the future, if every question is 3cents (to test with Cline). So review the [[LLM Review]], the goal of the file was to start analysis of demos keys/cost, that we broke them all, and evolving to [[Ollama]] local requirement.
+Here we see how money will talk in the future, if every question is 3cents (to test with Cline). So review the [[LLM-Review]], the goal of the file was to start analysis of demos keys/cost, that we broke them all, and evolving to [[Ollama]] local requirement.
 
 ## Best Practice
 
@@ -27,7 +27,7 @@ So we devider the Providers in types, some will require more details then others
 #### SambaNova
 
 
-### 2. [[Model Aggregadors]]/Marketplaces
+### 2. [[Model-Aggregadors]]/Marketplaces
 
 A Happy reminder to keep digging for better price (renting GPU or renting LLMs)
 
@@ -42,11 +42,11 @@ A Happy reminder to keep digging for better price (renting GPU or renting LLMs)
 #### OpenAI Compatible
 	Service like www.groq.com, can be also con, have several LLMs but no free tear, Ollama also documented to use this proccess while up, will try to access by it native params.
 
-![[Cline Provider OpenAi Compatible.png]]
+![[Cline-Providers-OpenAi-Compatible.png]]
 
 ### 3. Cloud Infrastructure Providers
 
-#### [[AWS Bedrock]]
+#### [[AWS-Bedrock]]
 
 #### GCP Vertex AI
 

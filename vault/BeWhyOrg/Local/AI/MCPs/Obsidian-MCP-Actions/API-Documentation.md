@@ -2,6 +2,18 @@
 
 This document provides detailed information about the API endpoints available in the Obsidian MCP Actions system.
 
+## For LLMs
+
+If you are an LLM interacting with this system, please follow these guidelines:
+
+1. **Task Creation**: When asked to perform a task, create a task in the daily note and a log file
+2. **Status Updates**: Only update task status up to Testes [?] - never mark as Terminado [-] or Done [x]
+3. **Documentation**: Create or update documentation in the appropriate locations
+4. **Linking**: Always link related files using Obsidian's [[file]] syntax
+5. **Logging**: Keep detailed logs of your actions in the task log file
+
+Remember that your role is to assist with documentation, research, and implementation planning, but final approval and completion should be done by a human.
+
 ## Base URL
 
 All API endpoints are relative to the MCP server base URL:

@@ -1,76 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "Task Management",
-      "path": "BeWhyOrg/Local/AI/MCP Actions/Task Management.md"
+      "basename": "2025-04-11",
+      "path": "Logs/Daily-Logs/2025-04-11.md"
     },
     {
-      "basename": "2025-04-08",
-      "path": "Logs/Daily Logs/2025-04-08.md"
+      "basename": "Augment",
+      "path": "BeWhyOrg/Local/Apps/Extensions/Augment.md"
     },
     {
-      "basename": "2025-04-09",
-      "path": "Logs/Daily Logs/2025-04-09.md"
+      "basename": "Example-Task",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md"
+    },
+    {
+      "basename": "MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions",
+      "path": "Logs/Tasks/MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions.md"
     },
     {
       "basename": "README",
-      "path": "BeWhyOrg/Local/AI/MCP Actions/README.md"
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md"
     },
     {
-      "basename": "API Documentation",
-      "path": "BeWhyOrg/Local/AI/MCP Actions/API Documentation.md"
+      "basename": "Weekly-Template",
+      "path": "Template/Weekly-Template.md"
     },
     {
-      "basename": "Test Local Apps",
-      "path": "Private/Local/Test Local Apps.md"
+      "basename": "Daily-Template",
+      "path": "Template/Daily-Template.md"
     },
     {
-      "basename": "Tasks Plugin - Review and check your Statuses 2025-02-20 22-49-02",
-      "path": "assets/Obsidian/Tasks Plugin - Review and check your Statuses 2025-02-20 22-49-02.md"
+      "basename": "Calendar-Template",
+      "path": "Template/Calendar-Template.md"
     },
     {
-      "basename": "Model Aggregadors",
-      "path": "BeWhyOrg/Local/AI/LLMs/External Services/Model Aggregadors.md"
+      "basename": "Test-Local-Apps",
+      "path": "Private/Local/Test-Local-Apps.md"
+    },
+    {
+      "basename": "In-Research",
+      "path": "BeWhyOrg/Local/AI/In-Research.md"
+    },
+    {
+      "basename": "Best-Practices",
+      "path": "BeWhyOrg/Local/AI/Best-Practices.md"
+    },
+    {
+      "basename": "Task-Creation-Tutorial",
+      "path": "BeWhyOrg/Local/AI/School/Task-Creation-Tutorial.md"
+    },
+    {
+      "basename": "LLM-Size_Parameters-and-Quantization-Guide",
+      "path": "BeWhyOrg/Local/AI/School/LLM-Size_Parameters-and-Quantization-Guide.md"
     },
     {
       "basename": "obsidian-mcp-server",
       "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
     },
     {
+      "basename": "MCP-Reviews",
+      "path": "BeWhyOrg/Local/AI/MCPs/MCP-Reviews.md"
+    },
+    {
+      "basename": "Task-Management",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Task-Management.md"
+    },
+    {
+      "basename": "API-Documentation",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/API-Documentation.md"
+    },
+    {
+      "basename": "LLM-Theory",
+      "path": "BeWhyOrg/Local/AI/LLMs/LLM-Theory.md"
+    },
+    {
+      "basename": "LLM-Review",
+      "path": "BeWhyOrg/Local/AI/LLMs/LLM-Review.md"
+    },
+    {
+      "basename": "AWS-Bedrock",
+      "path": "BeWhyOrg/Local/AI/LLMs/Hardware-Providers/AWS-Bedrock.md"
+    },
+    {
+      "basename": "Model-Aggregadors",
+      "path": "BeWhyOrg/Local/AI/LLMs/External-Services/Model-Aggregadors.md"
+    },
+    {
+      "basename": "Google-Review",
+      "path": "BeWhyOrg/Local/AI/LLMs/External-Services/Google-Review.md"
+    },
+    {
+      "basename": "Angular-Metronic",
+      "path": "BeWhyOrg/InServer/Frontend/Angular-Metronic.md"
+    },
+    {
+      "basename": "Laravel-API",
+      "path": "BeWhyOrg/InServer/Backend/Laravel-API.md"
+    },
+    {
+      "basename": "Tasks-Plugin_Review-and-check-your-Statuses",
+      "path": "assets/Obsidian/Tasks-Plugin_Review-and-check-your-Statuses.md"
+    },
+    {
+      "basename": "callouts",
+      "path": "assets/Obsidian/callouts.md"
+    },
+    {
+      "basename": "all-checkboxs",
+      "path": "assets/Obsidian/all-checkboxs.md"
+    },
+    {
+      "basename": "2025-04-08",
+      "path": "Logs/Daily-Logs/2025-04-08.md"
+    },
+    {
+      "basename": "2025-04-09",
+      "path": "Logs/Daily-Logs/2025-04-09.md"
+    },
+    {
       "basename": "Cline",
       "path": "BeWhyOrg/Local/Apps/Extensions/Cline.md"
     },
     {
-      "basename": "Task Creation Tutorial",
-      "path": "BeWhyOrg/Local/AI/School/Task Creation Tutorial.md"
-    },
-    {
       "basename": "Ollama",
-      "path": "BeWhyOrg/Local/AI/Local Runners/Ollama.md"
-    },
-    {
-      "basename": "Best Practices",
-      "path": "BeWhyOrg/Local/AI/Best Practices.md"
+      "path": "BeWhyOrg/Local/AI/Local-Runners/Ollama.md"
     },
     {
       "basename": "LMStudio",
-      "path": "BeWhyOrg/Local/AI/Local Runners/LMStudio.md"
-    },
-    {
-      "basename": "In Research",
-      "path": "BeWhyOrg/Local/AI/In Research.md"
-    },
-    {
-      "basename": "Google Review",
-      "path": "BeWhyOrg/Local/AI/LLMs/External Services/Google Review.md"
-    },
-    {
-      "basename": "LLM Size, Parameters and Quantization Guide",
-      "path": "BeWhyOrg/Local/AI/School/LLM Size, Parameters and Quantization Guide.md"
-    },
-    {
-      "basename": "LLM Theory",
-      "path": "BeWhyOrg/Local/AI/LLMs/LLM Theory.md"
+      "path": "BeWhyOrg/Local/AI/Local-Runners/LMStudio.md"
     },
     {
       "basename": "Introduction",
@@ -78,19 +134,11 @@
     },
     {
       "basename": "2025-04-10",
-      "path": "Logs/Daily Logs/2025-04-10.md"
+      "path": "Logs/Daily-Logs/2025-04-10.md"
     },
     {
       "basename": "Releases",
       "path": "BeWhyOrg/InServer/Releases.md"
-    },
-    {
-      "basename": "Angular Metronic",
-      "path": "BeWhyOrg/InServer/Frontend/Angular Metronic.md"
-    },
-    {
-      "basename": "Laravel API",
-      "path": "BeWhyOrg/InServer/Backend/Laravel API.md"
     },
     {
       "basename": "Angular",
@@ -101,28 +149,12 @@
       "path": "BeWhyOrg/Local/Tech-Stack/Laravel.md"
     },
     {
-      "basename": "MCP Reviews",
-      "path": "BeWhyOrg/Local/AI/MCPs/MCP Reviews.md"
-    },
-    {
-      "basename": "LLM Review",
-      "path": "BeWhyOrg/Local/AI/LLMs/LLM Review.md"
-    },
-    {
       "basename": "anthropic-puppeter-webcraller",
       "path": "BeWhyOrg/Local/AI/MCPs/List/anthropic-puppeter-webcraller.md"
     },
     {
       "basename": "Obsidian",
       "path": "BeWhyOrg/Local/Apps/Obsidian.md"
-    },
-    {
-      "basename": "All Checkboxs",
-      "path": "assets/Obsidian/All Checkboxs.md"
-    },
-    {
-      "basename": "Callouts",
-      "path": "assets/Obsidian/Callouts.md"
     },
     {
       "basename": "Hardware",

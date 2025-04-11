@@ -82,7 +82,7 @@ Quantization makes large models fit on smaller GPUs by reducing precision while 
 - https://www.youtube.com/watch?v=8r9Kit3lKXE
 - https://www.youtube.com/watch?v=QfFRNF5AhME
 
-### [[Google Review]]
+### [[Google-Review]]
 
 https://notebooklm.google.com/notebook/f8fedfae-ac22-49ad-b660-d8e2374b85e5?pli=1
 

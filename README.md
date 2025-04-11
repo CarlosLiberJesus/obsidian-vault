@@ -14,10 +14,15 @@ This vault serves as the central hub for coordinating multiple Local LLM project
       - `BeWhyOrg/InServer/Backend/` - Laravel as API
       - `BeWhyOrg/InServer/Frontend/` - Angular Framework
     - `BeWhyOrg/Local/` - Local project documentation
-      - `BeWhyOrg/Local/Docker/` - Where the MCP will be documented
+      - `BeWhyOrg/Local/AI/` - AI and LLM related documentation
+        - `BeWhyOrg/Local/AI/MCPs/` - Model Communication Protocols documentation
+          - `BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/` - Obsidian MCP Actions system
     - `Estado` - Where we will have short-cuts and analysis of the Portuguese State
   - `Private/` - Personal notes and sensitive information (git-ignored)
   - `Logs/` - Daily and weekly progress tracking, Where LLM can use as dairy if needed leaving project as it is
+    - `Logs/Daily-Logs/` - Daily progress notes and tasks
+    - `Logs/Weekly-Logs/` - Weekly progress summaries
+    - `Logs/Tasks/` - Detailed logs for specific tasks
   - `Template/` - Standardized templates for consistent documentation
   - `assets/` - Media and resource files
 

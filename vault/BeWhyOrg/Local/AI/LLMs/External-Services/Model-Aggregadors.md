@@ -13,7 +13,7 @@ Homepage: [Homepage](https://openrouter.ai/)
 
 In site they advertise more LLMs but this are the ones in the Model Choices, we have been review the method OpenAi Compatible that could increase the models, probably!
 
-As [[AWS Bedrock]] is a good reminder to keep looking for best price, in case of renting GPUs to install Models, or Models API themselves, which is cheaper.
+As [[AWS-Bedrock]] is a good reminder to keep looking for best price, in case of renting GPUs to install Models, or Models API themselves, which is cheaper.
 
 ### claud-family
 

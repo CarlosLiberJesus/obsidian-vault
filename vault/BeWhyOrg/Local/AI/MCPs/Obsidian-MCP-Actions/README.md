@@ -52,13 +52,12 @@ Only humans should mark tasks as:
 ## Folder Structure
 
 ```
-vault/BeWhyOrg/Local/AI/MCP Actions/
+vault/BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/
 ├── README.md
-├── API Documentation.md
-├── Configuration Guide.md
-├── Task Management.md
+├── API-Documentation.md
+├── Task-Management.md
 └── Examples/
-    └── Example Task.md
+    └── Example-Task.md
 ```
 
 ## Logs Structure
@@ -73,7 +72,7 @@ vault/Logs/
 
 ## Getting Started
 
-1. Review the [Configuration Guide](Configuration%20Guide.md) to set up the MCP server
-2. Check the [Task Management](Task%20Management.md) document for details on how tasks are created and managed
-3. See the [API Documentation](API%20Documentation.md) for information on the available API endpoints
-4. Look at the [Examples](Examples/) folder for examples of how the system works
+1. Check the [Task-Management](Task-Management.md) document for details on how tasks are created and managed
+2. See the [API-Documentation](API-Documentation.md) for information on the available API endpoints
+3. Review the [Implementation-Guide](Implementation-Guide.md) for instructions on implementing the system
+4. Look at the [Examples/Example-Task](Examples/Example-Task.md) for an example of how the system works

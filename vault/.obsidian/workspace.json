@@ -4,235 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "dbfba278d997edb5",
+        "id": "5b1b87537b78e65a",
         "type": "tabs",
         "children": [
           {
-            "id": "5d63f6c621aeebe9",
+            "id": "1e970df65d965f60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/AI/School/LLM Size, Parameters and Quantization Guide.md",
+                "file": "Logs/Daily-Logs/2025-04-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Size, Parameters and Quantization Guide"
+              "title": "2025-04-11"
             }
           },
           {
-            "id": "7358710923a566f1",
+            "id": "ec0cf3e5581564c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/AI/LLMs/External Services/Google Review.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Review"
+              "title": "Example-Task"
             }
           },
           {
-            "id": "24b196df37bc6285",
+            "id": "3df5d50b3ede7f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Local/AI/Local Runners/Ollama.md",
+                "file": "BeWhyOrg/Local/Apps/Extensions/Augment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ollama"
-            }
-          },
-          {
-            "id": "da8f314876ca4f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/School/Task Creation Tutorial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Task Creation Tutorial"
-            }
-          },
-          {
-            "id": "7d66d39c06518d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/Apps/Extensions/Cline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cline"
-            }
-          },
-          {
-            "id": "e844819428eddd4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/In Research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In Research"
-            }
-          },
-          {
-            "id": "8bba44b5c522b702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/LLMs/External Services/Model Aggregadors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model Aggregadors"
-            }
-          },
-          {
-            "id": "1535d76171a602b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assets/Obsidian/Tasks Plugin - Review and check your Statuses 2025-02-20 22-49-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks Plugin - Review and check your Statuses 2025-02-20 22-49-02"
-            }
-          },
-          {
-            "id": "d93d622067e3ce48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/Local/Test Local Apps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test Local Apps"
-            }
-          },
-          {
-            "id": "2056786bd17b9b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/MCP Actions/API Documentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "API Documentation"
-            }
-          },
-          {
-            "id": "17b941c5a54a7db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/MCP Actions/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "27073b4676b69811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/MCP Actions/Task Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Task Management"
-            }
-          },
-          {
-            "id": "5196856f9ad7b34b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Daily Logs/2025-04-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-09"
-            }
-          },
-          {
-            "id": "edff03aa2209ccd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/Daily Logs/2025-04-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-08"
-            }
-          },
-          {
-            "id": "cde262e82332c8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/Local Runners/LMStudio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LMStudio"
-            }
-          },
-          {
-            "id": "5919db757377579c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/AI/Best Practices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Practices"
+              "title": "Augment"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDEs",
+                "query": "MCP-001",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -357,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeWhyOrg/Local/AI/MCP Actions/Task Management.md",
+                "file": "Logs/Daily-Logs/2025-04-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Task Management"
+              "title": "Outline of 2025-04-11"
             }
           },
           {
@@ -415,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BeWhyOrg/Local/AI/MCP Actions/Task Management.md",
+                "file": "Logs/Daily-Logs/2025-04-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -443,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Task Management"
+              "title": "Graph of 2025-04-11"
             }
           },
           {
@@ -460,8 +277,7 @@
               "title": "Obsidian"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -485,45 +301,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27073b4676b69811",
+  "active": "1e970df65d965f60",
   "lastOpenFiles": [
-    "Logs/Daily Logs/2025-04-08.md",
-    "Logs/Daily Logs/2025-04-09.md",
-    "BeWhyOrg/Local/AI/MCP Actions/Task Management.md",
-    "BeWhyOrg/Local/AI/MCP Actions/README.md",
-    "BeWhyOrg/Local/AI/MCP Actions/API Documentation.md",
-    "Private/Local/Test Local Apps.md",
-    "assets/Obsidian/Tasks Plugin - Review and check your Statuses 2025-02-20 22-49-02.md",
-    "BeWhyOrg/Local/AI/MCP Actions",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/MCP Integration/Configuration Guide.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Completed Loops/README.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Workflows/Basic Workflow.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Example Loop.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Task Template.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Simplified Approach.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Quick Start Guide.md",
-    "BeWhyOrg/Local/AI/LLMs/External Services/Model Aggregadors.md",
+    "BeWhyOrg/Local/Apps/Extensions/Augment.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md",
+    "Logs/Tasks/MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions.md",
+    "Logs/Daily-Logs/2025-04-11.md",
+    "Logs/Tasks/README.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/README.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Implementation-Guide.md",
+    "Logs/Tasks",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md",
+    "Template/Weekly-Template.md",
+    "Logs/Daily Logs/2025-04-11.md",
+    "Logs/Daily Logs",
+    "Template/Daily-Template.md",
+    "Template/Calendar-Template.md",
+    "Private/Local/Test-Local-Apps.md",
+    "BeWhyOrg/Local/AI/In-Research.md",
+    "BeWhyOrg/Local/AI/Best-Practices.md",
+    "BeWhyOrg/Local/AI/School/Task-Creation-Tutorial.md",
+    "BeWhyOrg/Local/AI/School/LLM-Size_Parameters-and-Quantization-Guide.md",
+    "Examples.md",
     "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
-    "BeWhyOrg/Local/Apps/Extensions/Cline.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/System Overview.md",
-    "BeWhyOrg/Local/AI/School/Task Creation Tutorial.md",
+    "BeWhyOrg/Local/AI/MCPs/MCP-Reviews.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Task-Management.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/API-Documentation.md",
+    "BeWhyOrg/Local/AI/LLMs/LLM-Theory.md",
+    "BeWhyOrg/Local/AI/LLMs/LLM-Review.md",
+    "BeWhyOrg/Local/AI/LLMs/Hardware-Providers/AWS-Bedrock.md",
+    "BeWhyOrg/Local/AI/LLMs/External-Services/Model-Aggregadors.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/Completed Loops",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Active Loops/README.md",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/Active Loops",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/MCP Integration",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/Workflows",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates/Reflection Template.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates/Documentation Update Template.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates/Implementation Log Template.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates/Implementation Plan Template.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates/Research Template.md",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates/Question Template.md",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/Templates",
     "BeWhyOrg/Local/AI/Self-Feedback Loop",
-    "BeWhyOrg/Local/AI/School",
-    "BeWhyOrg/Local/AI/MCPs/List",
-    "assets/Cline Provider OpenAi Compatible.png",
-    "BeWhyOrg/Local/AI/LLMs/Local",
+    "assets/Cline-Providers-OpenAi-Compatible.png",
     "assets/AI_numeros de modelos.png",
     "Logs/Mapa Semanal Kanbam.canvas",
     "BeWhyOrg/BeWhyOrg.canvas",

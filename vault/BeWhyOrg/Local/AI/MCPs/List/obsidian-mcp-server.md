@@ -92,3 +92,5 @@ nano ~/.vscode/mcp.json
 ```
 
 we can still try project workspace!
+
+Continue with [[README]]

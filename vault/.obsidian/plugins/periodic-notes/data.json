@@ -3,14 +3,14 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "Logs/Daily Logs",
-    "template": "Template/Daily Template",
+    "folder": "Logs/Daily-Logs",
+    "template": "Template/Daily-Template.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "Template/Weekly Template.md",
-    "folder": "Logs/Weekly Logs",
+    "template": "Template/Weekly-Template.md",
+    "folder": "Logs/Weekly-Logs",
     "enabled": true
   },
   "monthly": {

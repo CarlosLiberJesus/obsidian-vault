@@ -136,4 +136,4 @@ So, if you give NLP a paragraph, it can scan through and say, "Here are all the 
 
 ## More documentation
 
-- [[LLM Size, Parameters and Quantization Guide]]
+- [[LLM-Size_Parameters-and-Quantization-Guide]]
