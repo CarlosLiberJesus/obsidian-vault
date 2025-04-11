@@ -10,13 +10,12 @@
 
 ## Entity Documentation
 
-- [[Entities/Cidadao]]
+- [[Entity-Republica]]
 - [[Entities/Governo]]
-- [[Entities/Instituicao]]
-- [[Entities/InstituicaoCargo]]
-- [[Entities/CidadaoCargo]]
-- [[Entities/Republica]]
-- [[Entities/Lei]]
+- [[Entity-Instituicao]]
+- [[Entity-InstituicaoCargo]]
+- [[Entity-CidadaoCargo]]
+- [[Entity-Lei]]
 
 ## Technical Guides
 

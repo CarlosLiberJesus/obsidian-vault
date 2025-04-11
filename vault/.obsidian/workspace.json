@@ -78,6 +78,76 @@
             }
           },
           {
+            "id": "0d7560a33b4e2ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity-Lei"
+            }
+          },
+          {
+            "id": "0a2856a263733095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity-Republica"
+            }
+          },
+          {
+            "id": "b5dd768004b9d907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity-AnexoTipo"
+            }
+          },
+          {
+            "id": "668913a587b8f943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity-Governo"
+            }
+          },
+          {
+            "id": "f490687ac7831358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity-Instituicao"
+            }
+          },
+          {
             "id": "6603b0a04fd910f5",
             "type": "leaf",
             "state": {
@@ -85,7 +155,7 @@
               "state": {
                 "file": "BeWhyOrg/Documentation/00-Index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "00-Index"
@@ -134,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -226,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeWhyOrg/Documentation/00-Index.md",
+                "file": "BeWhyOrg/Documentation/02-Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +306,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00-Index"
+              "title": "Backlinks for 02-Architecture"
             }
           },
           {
@@ -245,12 +315,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeWhyOrg/Documentation/00-Index.md",
+                "file": "BeWhyOrg/Documentation/02-Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00-Index"
+              "title": "Outgoing links from 02-Architecture"
             }
           },
           {
@@ -259,13 +329,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeWhyOrg/Documentation/00-Index.md",
+                "file": "BeWhyOrg/Documentation/02-Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-Index"
+              "title": "Outline of 02-Architecture"
             }
           },
           {
@@ -317,7 +387,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BeWhyOrg/Documentation/00-Index.md",
+                "file": "BeWhyOrg/Documentation/02-Architecture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -345,7 +415,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 00-Index"
+              "title": "Graph of 02-Architecture"
             }
           },
           {
@@ -387,13 +457,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6603b0a04fd910f5",
+  "active": "f71824d885129fd8",
   "lastOpenFiles": [
-    "BeWhyOrg/Documentation/02-Architecture.md",
     "BeWhyOrg/Documentation/00-Index.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md",
+    "BeWhyOrg/InServer/Backend/Database/_EntityDocumentationTasks.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-CidadaoCargo.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md",
+    "BeWhyOrg/Documentation/04-Entity Documentation/InstituicaoCargo.md",
+    "BeWhyOrg/Documentation/04-Entity Documentation/Cidadao.md",
+    "BeWhyOrg/Documentation/04-Entity Documentation/00-Index.md",
+    "BeWhyOrg/Documentation/04-Entity Documentation",
+    "BeWhyOrg/Documentation/02-Architecture.md",
     "BeWhyOrg/Documentation/03-Data Model.md",
     "BeWhyOrg/Documentation/01-Project Overview.md",
-    "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md",
     "BeWhyOrg/Documentation",
     "BeWhyOrg/Local/Apps/Extensions/Augment.md",
     "BeWhyOrg/InServer/Backend/Database",
@@ -407,24 +488,13 @@
     "Logs/Tasks/MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions.md",
     "BeWhyOrg/Local/AI/Local-Runners/Ollama.md",
     "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
-    "BeWhyOrg/Local/AI/Hardware.md",
-    "BeWhyOrg/Local/Apps/MSTY.md",
-    "BeWhyOrg/Local/AI/Local-Runners/oobabooga.md",
-    "BeWhyOrg/InServer/Releases.md",
-    "BeWhyOrg/Local/AI/School/LLM-Size_Parameters-and-Quantization-Guide.md",
-    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md",
-    "Logs/Tasks/README.md",
-    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/README.md",
-    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Implementation-Guide.md",
     "Logs/Tasks",
     "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples",
-    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md",
     "Logs/Daily Logs",
     "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/Completed Loops",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/Active Loops",
     "BeWhyOrg/Local/AI/Self-Feedback Loop/MCP Integration",
-    "BeWhyOrg/Local/AI/Self-Feedback Loop/Workflows",
     "assets/Cline-Providers-OpenAi-Compatible.png",
     "assets/AI_numeros de modelos.png",
     "Logs/Mapa Semanal Kanbam.canvas",

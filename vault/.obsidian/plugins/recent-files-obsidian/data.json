@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "02-Architecture",
+      "path": "BeWhyOrg/Documentation/02-Architecture.md"
+    },
+    {
       "basename": "00-Index",
       "path": "BeWhyOrg/Documentation/00-Index.md"
     },
     {
-      "basename": "02-Architecture",
-      "path": "BeWhyOrg/Documentation/02-Architecture.md"
+      "basename": "Entity-Lei",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md"
+    },
+    {
+      "basename": "Entity-InstituicaoCargo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md"
+    },
+    {
+      "basename": "Entity-AnexoTipo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md"
+    },
+    {
+      "basename": "Entity-Republica",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md"
+    },
+    {
+      "basename": "Entity-Instituicao",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md"
+    },
+    {
+      "basename": "Entity-Governo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md"
     },
     {
       "basename": "03-Data Model",
@@ -15,10 +39,6 @@
     {
       "basename": "01-Project Overview",
       "path": "BeWhyOrg/Documentation/01-Project Overview.md"
-    },
-    {
-      "basename": "Entity-InstituicaoCargo",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md"
     },
     {
       "basename": "Augment",
@@ -175,30 +195,6 @@
     {
       "basename": "LMStudio",
       "path": "BeWhyOrg/Local/AI/Local-Runners/LMStudio.md"
-    },
-    {
-      "basename": "2025-04-10",
-      "path": "Logs/Daily-Logs/2025-04-10.md"
-    },
-    {
-      "basename": "Angular",
-      "path": "BeWhyOrg/Local/Tech-Stack/Angular.md"
-    },
-    {
-      "basename": "Laravel",
-      "path": "BeWhyOrg/Local/Tech-Stack/Laravel.md"
-    },
-    {
-      "basename": "anthropic-puppeter-webcraller",
-      "path": "BeWhyOrg/Local/AI/MCPs/List/anthropic-puppeter-webcraller.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "BeWhyOrg/Local/Apps/Obsidian.md"
-    },
-    {
-      "basename": "homeCloud",
-      "path": "Private/Local/homeCloud.md"
     }
   ],
   "omittedPaths": [],
