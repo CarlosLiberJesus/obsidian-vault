@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "00-Index",
+      "path": "BeWhyOrg/Documentation/00-Index.md"
+    },
+    {
+      "basename": "02-Architecture",
+      "path": "BeWhyOrg/Documentation/02-Architecture.md"
+    },
+    {
+      "basename": "03-Data Model",
+      "path": "BeWhyOrg/Documentation/03-Data Model.md"
+    },
+    {
+      "basename": "01-Project Overview",
+      "path": "BeWhyOrg/Documentation/01-Project Overview.md"
+    },
+    {
+      "basename": "Entity-InstituicaoCargo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md"
+    },
+    {
       "basename": "Augment",
       "path": "BeWhyOrg/Local/Apps/Extensions/Augment.md"
     },
@@ -179,18 +199,6 @@
     {
       "basename": "homeCloud",
       "path": "Private/Local/homeCloud.md"
-    },
-    {
-      "basename": "Meta LLama",
-      "path": "BeWhyOrg/Local/AI/LLMs/Local/Meta LLama.md"
-    },
-    {
-      "basename": "Claude.ai",
-      "path": "BeWhyOrg/Local/AI/LLMs/Claude.ai.md"
-    },
-    {
-      "basename": "DeepSeek",
-      "path": "BeWhyOrg/Local/AI/LLMs/Local/DeepSeek.md"
     }
   ],
   "omittedPaths": [],

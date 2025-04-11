@@ -18,7 +18,8 @@ Augment is an AI coding assistant extension that helps with understanding and mo
 
 1. Open VSCode Settings (Ctrl+Shift+P)
 2. Look for Preference: User Preferences (JSON)
-3. test it by asking about tasks....
+3. run it `node /home/carlos/MCPs/obsidian-mcp-server/build/index.js`
+4. test it by asking about tasks....
 
 ```json
 "augment.advanced": {
