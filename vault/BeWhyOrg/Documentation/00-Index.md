@@ -11,11 +11,13 @@
 ## Entity Documentation
 
 - [[Entity-Republica]]
-- [[Entities/Governo]]
+- [[Entity-Governo]]
 - [[Entity-Instituicao]]
+- [[Entity-Cidadao]]
 - [[Entity-InstituicaoCargo]]
 - [[Entity-CidadaoCargo]]
 - [[Entity-Lei]]
+- [[Entity-AnexoTipo]]
 
 ## Technical Guides
 

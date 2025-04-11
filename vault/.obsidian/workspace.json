@@ -4,207 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "982149dd6412a362",
+        "id": "738a98771a55fe41",
         "type": "tabs",
         "children": [
           {
-            "id": "fcd165ee9654f5a8",
+            "id": "9729198b454c83b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2371bc1d80f7be24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily-Logs/2025-04-08.md",
+                "file": "Private/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-08"
+              "title": "Introduction"
             }
           },
           {
-            "id": "244bbc8be5bbbc3a",
+            "id": "b31178e8a9121efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Daily-Logs/2025-04-11.md",
+                "file": "BeWhyOrg/Local/In-Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-11"
+              "title": "In-Research"
             }
           },
           {
-            "id": "17d9424732196b98",
+            "id": "09456f91963ffcef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/Weekly-Logs/2025-W15.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W15"
+              "title": "obsidian-mcp-server"
             }
           },
           {
-            "id": "6668517823a3560b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/Local/Apps/Extensions/Augment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Augment"
-            }
-          },
-          {
-            "id": "b714a3879f0da8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity-InstituicaoCargo"
-            }
-          },
-          {
-            "id": "0d7560a33b4e2ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity-Lei"
-            }
-          },
-          {
-            "id": "0a2856a263733095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity-Republica"
-            }
-          },
-          {
-            "id": "b5dd768004b9d907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity-AnexoTipo"
-            }
-          },
-          {
-            "id": "668913a587b8f943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity-Governo"
-            }
-          },
-          {
-            "id": "f490687ac7831358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity-Instituicao"
-            }
-          },
-          {
-            "id": "6603b0a04fd910f5",
+            "id": "fa6223a982505b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BeWhyOrg/Documentation/00-Index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "00-Index"
             }
           },
           {
-            "id": "109090e5262a152e",
+            "id": "93db45ef065f114e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Documentation/01-Project Overview.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Project Overview"
+              "title": "README"
             }
           },
           {
-            "id": "f71824d885129fd8",
+            "id": "5f6c1e35bb57d13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Documentation/02-Architecture.md",
+                "file": "BeWhyOrg/Local/AI/Best-Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Architecture"
+              "title": "Best-Practices"
             }
           },
           {
-            "id": "8de34a283b5e79ae",
+            "id": "c32f94cd88cedaad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeWhyOrg/Documentation/03-Data Model.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Vault-Best-Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Data Model"
+              "title": "Vault-Best-Practices"
+            }
+          },
+          {
+            "id": "93eb6d078e9155d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Task-Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task-Management"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeWhyOrg/Documentation/02-Architecture.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02-Architecture"
+              "title": "Backlinks for obsidian-mcp-server"
             }
           },
           {
@@ -315,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeWhyOrg/Documentation/02-Architecture.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02-Architecture"
+              "title": "Outgoing links from obsidian-mcp-server"
             }
           },
           {
@@ -329,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeWhyOrg/Documentation/02-Architecture.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02-Architecture"
+              "title": "Outline of obsidian-mcp-server"
             }
           },
           {
@@ -387,7 +313,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BeWhyOrg/Documentation/02-Architecture.md",
+                "file": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -415,7 +341,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 02-Architecture"
+              "title": "Graph of obsidian-mcp-server"
             }
           },
           {
@@ -457,37 +383,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f71824d885129fd8",
+  "active": "09456f91963ffcef",
   "lastOpenFiles": [
+    "BeWhyOrg/Local/In-Research.md",
+    "Private/Introduction.md",
+    "BeWhyOrg/Local/AI/School/Task-Creation-Tutorial.md",
     "BeWhyOrg/Documentation/00-Index.md",
-    "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md",
-    "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md",
-    "BeWhyOrg/InServer/Backend/Database/_EntityDocumentationTasks.md",
-    "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md",
-    "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md",
+    "index.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Task-Management.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Vault-Best-Practices.md",
+    "BeWhyOrg/Local/AI/Best-Practices.md",
+    "BeWhyOrg/Local/Tech-Stack/Laravel.md",
+    "index.md.md",
+    "BeWhyOrg/Local/Apps/Extensions/Augment.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md",
+    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/README.md",
+    "BeWhyOrg/InServer/Backend/Laravel-API.md",
+    "Logs/Tasks/README.md",
     "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Cidadao.md",
     "BeWhyOrg/InServer/Backend/Database/Entity-CidadaoCargo.md",
-    "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md",
-    "BeWhyOrg/Documentation/04-Entity Documentation/InstituicaoCargo.md",
-    "BeWhyOrg/Documentation/04-Entity Documentation/Cidadao.md",
-    "BeWhyOrg/Documentation/04-Entity Documentation/00-Index.md",
-    "BeWhyOrg/Documentation/04-Entity Documentation",
+    "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md",
     "BeWhyOrg/Documentation/02-Architecture.md",
     "BeWhyOrg/Documentation/03-Data Model.md",
-    "BeWhyOrg/Documentation/01-Project Overview.md",
+    "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md",
+    "BeWhyOrg/InServer/Backend/Database/_EntityDocumentationTasks.md",
+    "BeWhyOrg/Documentation/04-Entity Documentation",
     "BeWhyOrg/Documentation",
-    "BeWhyOrg/Local/Apps/Extensions/Augment.md",
     "BeWhyOrg/InServer/Backend/Database",
-    "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Vault-Best-Practices.md",
-    "Logs/Weekly-Logs/2025-W15.md",
-    "Logs/Daily-Logs/2025-04-11.md",
-    "Logs/Daily-Logs/2025-04-08.md",
-    "Logs/Tasks/MCP-002-Create-API-documentation-for-Obsidian-MCP-Server.md",
-    "BeWhyOrg/Local/Apps/Docker.md",
-    "Private/Introduction.md",
-    "Logs/Tasks/MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions.md",
-    "BeWhyOrg/Local/AI/Local-Runners/Ollama.md",
-    "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md",
     "Logs/Tasks",
     "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples",
     "Logs/Daily Logs",

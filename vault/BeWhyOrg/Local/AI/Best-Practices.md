@@ -40,7 +40,7 @@ These checks are based on the best practices outlined in the [[BeWhyOrg/Local/Te
 
 ## Code Review Checklist and Process
 
-- In [[Cline]] already have some context, but all Agents should have a best practices/custom instructions to apply;
+- In [[Cline]], and [[Augment]], already have some context, but all Agents should have a best practices/custom instructions to apply;
 	- in future there should be a custom workflow between my prompt LLM and MCPs until response
 - "if you need to update an existing component, instead of adding more code inside, create a new one. And do your best to break larges (> 280 LOC) you're about to edit into smaller, manageable ones"
 - having more flows like [[BeWhyOrg/Local/Tech-Stack/Laravel|Laravel]] and [[BeWhyOrg/Local/Tech-Stack/Angular|Angular]]

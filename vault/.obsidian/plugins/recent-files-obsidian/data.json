@@ -1,48 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "02-Architecture",
-      "path": "BeWhyOrg/Documentation/02-Architecture.md"
+      "basename": "obsidian-mcp-server",
+      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
+    },
+    {
+      "basename": "In-Research",
+      "path": "BeWhyOrg/Local/In-Research.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Private/Introduction.md"
     },
     {
       "basename": "00-Index",
       "path": "BeWhyOrg/Documentation/00-Index.md"
     },
     {
-      "basename": "Entity-Lei",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
-      "basename": "Entity-InstituicaoCargo",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md"
+      "basename": "README",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md"
     },
     {
-      "basename": "Entity-AnexoTipo",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md"
+      "basename": "Task-Management",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Task-Management.md"
     },
     {
-      "basename": "Entity-Republica",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md"
+      "basename": "Vault-Best-Practices",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Vault-Best-Practices.md"
+    },
+    {
+      "basename": "Best-Practices",
+      "path": "BeWhyOrg/Local/AI/Best-Practices.md"
+    },
+    {
+      "basename": "Laravel",
+      "path": "BeWhyOrg/Local/Tech-Stack/Laravel.md"
+    },
+    {
+      "basename": "Augment",
+      "path": "BeWhyOrg/Local/Apps/Extensions/Augment.md"
+    },
+    {
+      "basename": "Example-Task",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md"
+    },
+    {
+      "basename": "README",
+      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/README.md"
+    },
+    {
+      "basename": "Laravel-API",
+      "path": "BeWhyOrg/InServer/Backend/Laravel-API.md"
+    },
+    {
+      "basename": "README",
+      "path": "Logs/Tasks/README.md"
     },
     {
       "basename": "Entity-Instituicao",
       "path": "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md"
     },
     {
-      "basename": "Entity-Governo",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md"
+      "basename": "Entity-Cidadao",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Cidadao.md"
+    },
+    {
+      "basename": "Entity-CidadaoCargo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-CidadaoCargo.md"
+    },
+    {
+      "basename": "Entity-InstituicaoCargo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-InstituicaoCargo.md"
+    },
+    {
+      "basename": "Entity-Republica",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Republica.md"
+    },
+    {
+      "basename": "Entity-AnexoTipo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-AnexoTipo.md"
+    },
+    {
+      "basename": "02-Architecture",
+      "path": "BeWhyOrg/Documentation/02-Architecture.md"
     },
     {
       "basename": "03-Data Model",
       "path": "BeWhyOrg/Documentation/03-Data Model.md"
     },
     {
-      "basename": "01-Project Overview",
-      "path": "BeWhyOrg/Documentation/01-Project Overview.md"
+      "basename": "Entity-Lei",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md"
     },
     {
-      "basename": "Augment",
-      "path": "BeWhyOrg/Local/Apps/Extensions/Augment.md"
+      "basename": "Entity-Governo",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md"
+    },
+    {
+      "basename": "01-Project Overview",
+      "path": "BeWhyOrg/Documentation/01-Project Overview.md"
     },
     {
       "basename": "2025-W15",
@@ -61,20 +121,12 @@
       "path": "BeWhyOrg/Local/Apps/Docker.md"
     },
     {
-      "basename": "Introduction",
-      "path": "Private/Introduction.md"
-    },
-    {
       "basename": "MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions",
       "path": "Logs/Tasks/MCP-001-Create-API-documentation-for-Obsidian-MCP-Actions.md"
     },
     {
       "basename": "Ollama",
       "path": "BeWhyOrg/Local/AI/Local-Runners/Ollama.md"
-    },
-    {
-      "basename": "obsidian-mcp-server",
-      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
     },
     {
       "basename": "Hardware",
@@ -97,14 +149,6 @@
       "path": "BeWhyOrg/Local/AI/School/LLM-Size_Parameters-and-Quantization-Guide.md"
     },
     {
-      "basename": "Example-Task",
-      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Examples/Example-Task.md"
-    },
-    {
-      "basename": "README",
-      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/README.md"
-    },
-    {
       "basename": "Weekly-Template",
       "path": "Template/Weekly-Template.md"
     },
@@ -121,24 +165,8 @@
       "path": "Private/Local/Test-Local-Apps.md"
     },
     {
-      "basename": "In-Research",
-      "path": "BeWhyOrg/Local/AI/In-Research.md"
-    },
-    {
-      "basename": "Best-Practices",
-      "path": "BeWhyOrg/Local/AI/Best-Practices.md"
-    },
-    {
-      "basename": "Task-Creation-Tutorial",
-      "path": "BeWhyOrg/Local/AI/School/Task-Creation-Tutorial.md"
-    },
-    {
       "basename": "MCP-Reviews",
       "path": "BeWhyOrg/Local/AI/MCPs/MCP-Reviews.md"
-    },
-    {
-      "basename": "Task-Management",
-      "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Task-Management.md"
     },
     {
       "basename": "API-Documentation",
@@ -167,34 +195,6 @@
     {
       "basename": "Angular-Metronic",
       "path": "BeWhyOrg/InServer/Frontend/Angular-Metronic.md"
-    },
-    {
-      "basename": "Laravel-API",
-      "path": "BeWhyOrg/InServer/Backend/Laravel-API.md"
-    },
-    {
-      "basename": "Tasks-Plugin_Review-and-check-your-Statuses",
-      "path": "assets/Obsidian/Tasks-Plugin_Review-and-check-your-Statuses.md"
-    },
-    {
-      "basename": "callouts",
-      "path": "assets/Obsidian/callouts.md"
-    },
-    {
-      "basename": "all-checkboxs",
-      "path": "assets/Obsidian/all-checkboxs.md"
-    },
-    {
-      "basename": "2025-04-09",
-      "path": "Logs/Daily-Logs/2025-04-09.md"
-    },
-    {
-      "basename": "Cline",
-      "path": "BeWhyOrg/Local/Apps/Extensions/Cline.md"
-    },
-    {
-      "basename": "LMStudio",
-      "path": "BeWhyOrg/Local/AI/Local-Runners/LMStudio.md"
     }
   ],
   "omittedPaths": [],
