@@ -38,7 +38,7 @@ OBSIDIAN_PORT=27124
 
 ```bash
 cd ~/MCPs/obsidian-mcp-server
-npm start
+node build/index.js
 ```
 
 - It should run on http://localhost:3000 by default. Keep it running in a terminal (or use screen/tmux to detach).

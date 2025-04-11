@@ -20,3 +20,8 @@ Learning is a spiral process that we don't get it right at first! In this new cy
 - we might add more, we still have the weak fully free copilot until the end of year
 
 Each of this agents have their strengths, so we can switch between then without collisions. You can still use the Default Profile the install commum Extensions and then copy them to the "AI profiles"
+
+## plugins:
+- [generic movie](https://www.youtube.com/watch?v=lxRAj1Gijic)
+- [drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- [code diagram](https://www.codediagram.io/)

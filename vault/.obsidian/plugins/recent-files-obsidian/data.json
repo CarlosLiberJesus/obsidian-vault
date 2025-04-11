@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "obsidian-mcp-server",
-      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
+      "basename": "03-Data Model",
+      "path": "BeWhyOrg/Documentation/03-Data Model.md"
+    },
+    {
+      "basename": "00-Index",
+      "path": "BeWhyOrg/Documentation/00-Index.md"
+    },
+    {
+      "basename": "01-Project Overview",
+      "path": "BeWhyOrg/Documentation/01-Project Overview.md"
+    },
+    {
+      "basename": "Entity-Cidadao",
+      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Cidadao.md"
     },
     {
       "basename": "In-Research",
       "path": "BeWhyOrg/Local/In-Research.md"
     },
     {
-      "basename": "Introduction",
-      "path": "Private/Introduction.md"
+      "basename": "Obsidian",
+      "path": "BeWhyOrg/Local/Apps/Obsidian.md"
     },
     {
-      "basename": "00-Index",
-      "path": "BeWhyOrg/Documentation/00-Index.md"
+      "basename": "VSCode",
+      "path": "BeWhyOrg/Local/Apps/VSCode.md"
+    },
+    {
+      "basename": "Mapa Semanal Kanbam",
+      "path": "Logs/Mapa Semanal Kanbam.canvas"
+    },
+    {
+      "basename": "Tasks Side",
+      "path": "Logs/Tasks Side.md"
+    },
+    {
+      "basename": "2025-04-11",
+      "path": "Logs/Daily-Logs/2025-04-11.md"
+    },
+    {
+      "basename": "2025-04-10",
+      "path": "Logs/Daily-Logs/2025-04-10.md"
+    },
+    {
+      "basename": "2025-04-09",
+      "path": "Logs/Daily-Logs/2025-04-09.md"
+    },
+    {
+      "basename": "obsidian-mcp-server",
+      "path": "BeWhyOrg/Local/AI/MCPs/List/obsidian-mcp-server.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Private/Introduction.md"
     },
     {
       "basename": "index",
@@ -31,10 +71,6 @@
     {
       "basename": "Vault-Best-Practices",
       "path": "BeWhyOrg/Local/AI/MCPs/Obsidian-MCP-Actions/Vault-Best-Practices.md"
-    },
-    {
-      "basename": "Best-Practices",
-      "path": "BeWhyOrg/Local/AI/Best-Practices.md"
     },
     {
       "basename": "Laravel",
@@ -65,10 +101,6 @@
       "path": "BeWhyOrg/InServer/Backend/Database/Entity-Instituicao.md"
     },
     {
-      "basename": "Entity-Cidadao",
-      "path": "BeWhyOrg/InServer/Backend/Database/Entity-Cidadao.md"
-    },
-    {
       "basename": "Entity-CidadaoCargo",
       "path": "BeWhyOrg/InServer/Backend/Database/Entity-CidadaoCargo.md"
     },
@@ -89,10 +121,6 @@
       "path": "BeWhyOrg/Documentation/02-Architecture.md"
     },
     {
-      "basename": "03-Data Model",
-      "path": "BeWhyOrg/Documentation/03-Data Model.md"
-    },
-    {
       "basename": "Entity-Lei",
       "path": "BeWhyOrg/InServer/Backend/Database/Entity-Lei.md"
     },
@@ -101,16 +129,8 @@
       "path": "BeWhyOrg/InServer/Backend/Database/Entity-Governo.md"
     },
     {
-      "basename": "01-Project Overview",
-      "path": "BeWhyOrg/Documentation/01-Project Overview.md"
-    },
-    {
       "basename": "2025-W15",
       "path": "Logs/Weekly-Logs/2025-W15.md"
-    },
-    {
-      "basename": "2025-04-11",
-      "path": "Logs/Daily-Logs/2025-04-11.md"
     },
     {
       "basename": "2025-04-08",
@@ -175,26 +195,6 @@
     {
       "basename": "LLM-Theory",
       "path": "BeWhyOrg/Local/AI/LLMs/LLM-Theory.md"
-    },
-    {
-      "basename": "LLM-Review",
-      "path": "BeWhyOrg/Local/AI/LLMs/LLM-Review.md"
-    },
-    {
-      "basename": "AWS-Bedrock",
-      "path": "BeWhyOrg/Local/AI/LLMs/Hardware-Providers/AWS-Bedrock.md"
-    },
-    {
-      "basename": "Model-Aggregadors",
-      "path": "BeWhyOrg/Local/AI/LLMs/External-Services/Model-Aggregadors.md"
-    },
-    {
-      "basename": "Google-Review",
-      "path": "BeWhyOrg/Local/AI/LLMs/External-Services/Google-Review.md"
-    },
-    {
-      "basename": "Angular-Metronic",
-      "path": "BeWhyOrg/InServer/Frontend/Angular-Metronic.md"
     }
   ],
   "omittedPaths": [],

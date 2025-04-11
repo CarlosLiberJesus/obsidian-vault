@@ -1,0 +1,243 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 1200,
+      "id": "05beed9fcff238e8",
+      "label": "Semana",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3500,
+      "x": -2120,
+      "y": -700
+    },
+    {
+      "height": 720,
+      "id": "234d2f6bee06d2b1",
+      "label": "Domingo",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 500,
+      "x": -2100,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "1a88329a9bfc0b73",
+      "label": "Terça",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 500,
+      "x": -1040,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "dd896e30212f285e",
+      "label": "Segunda",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": -1560,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "0bb5baed9adf1e84",
+      "label": "Quinta",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 460,
+      "x": -20,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "48905f21f0fe5657",
+      "label": "Quarta",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 440,
+      "x": -500,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "ea4fe3aac78ae380",
+      "label": "Sexta",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 440,
+      "x": 480,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "bb2cc2f3fe6ff0a9",
+      "label": "Sábado",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 400,
+      "x": 940,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "4d61ed5a8b927bce",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n> # Domingo, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).toFormat(\"MMM dd\")` \n>\n> > [!tarefas]\n> >```tasks\n> >not done\n> >(due on this sunday) OR ((scheduled in or before this sunday) AND (due in or after this sunday))\n> >hide due date\n> >sort by priority\n> >```\n> ",
+      "type": "text",
+      "width": 500,
+      "x": -2100,
+      "y": -660
+    },
+    {
+      "color": "#0f31b8",
+      "height": 360,
+      "id": "418b89c30f3cbe43",
+      "styleAttributes": {
+      },
+      "text": "# BackLog\n```tasks\nnot done\nfilter by function task.status.symbol === ' '\nsort by due ASC\npath does not include All Checkboxs\npath does not include Template\n```\n",
+      "type": "text",
+      "width": 540,
+      "x": -2060,
+      "y": 100
+    },
+    {
+      "height": 720,
+      "id": "0e84f8a94d4f1442",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n> # Segunda, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).plus({ days: 1 }).toFormat(\"MMM dd\")`\n> > [!tarefas]\n> >```tasks\n> >not done\n> >(due on this monday) OR ((scheduled in or before this monday) AND (due in or after this monday))\n> >hide due date\n> >sort by priority\n> >```\n",
+      "type": "text",
+      "width": 480,
+      "x": -1560,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "517d1127f2e16800",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n> # Terça, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).plus({ days: 2 }).toFormat(\"MMM dd\")`\n> > [!tarefas]\n> >```tasks\n> >not done\n> >(due on this tuesday) OR ((scheduled in or before this tuesday) AND (due in or after this tuesday))\n> >hide due date\n> >sort by priority\n> >```\n",
+      "type": "text",
+      "width": 500,
+      "x": -1040,
+      "y": -660
+    },
+    {
+      "color": "4",
+      "height": 360,
+      "id": "abf6e1518919e354",
+      "styleAttributes": {
+      },
+      "text": "# Done\n```tasks\ndone\ndone on or after last Sunday\ndone on or before next Sunday\nsort by priority\npath does not include All Checkboxs\npath does not include Template\n```\n",
+      "type": "text",
+      "width": 460,
+      "x": 880,
+      "y": 100
+    },
+    {
+      "color": "1",
+      "height": 360,
+      "id": "83aeb83e8be34310",
+      "styleAttributes": {
+      },
+      "text": "# Em Atraso\n```tasks\nnot done\ndue before today\nsort by priority\npath does not include All Checkboxs\npath does not include Template\n```\n",
+      "type": "text",
+      "width": 530,
+      "x": -1460,
+      "y": 100
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "65031b1334a99798",
+      "styleAttributes": {
+      },
+      "text": "# Desenvolvimento\n```tasks\nnot done\nfilter by function task.status.symbol === 'd'\nsort by priority\npath does not include All Checkboxs\npath does not include Template\n```\n",
+      "type": "text",
+      "width": 480,
+      "x": -260,
+      "y": 100
+    },
+    {
+      "height": 720,
+      "id": "9ce41b2d25c7e981",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n># Quinta, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).plus({ days: 4 }).toFormat(\"MMM dd\")`\n> > [!tarefas]\n> >```tasks\n> >not done\n> >(due on this thursday) OR ((scheduled in or before this thursday) AND (due in or after this thursday))\n> >hide due date\n> >sort by priority\n> >```\n",
+      "type": "text",
+      "width": 460,
+      "x": -20,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "95c393d6c50b1d66",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n># Sexta, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).plus({ days: 5 }).toFormat(\"MMM dd\")`\n> > [!tarefas]\n> > ```tasks\n> >not done\n> >(due on this friday) OR ((scheduled in or before this friday) AND (due in or after this friday))\n> >hide due date\n> >sort by priority\n> >```\n",
+      "type": "text",
+      "width": 440,
+      "x": 480,
+      "y": -660
+    },
+    {
+      "color": "3",
+      "height": 360,
+      "id": "a1ad7d52498b077c",
+      "styleAttributes": {
+      },
+      "text": "# Análise\n```tasks\nnot done\nfilter by function task.status.symbol === 'B'\nsort by priority\npath does not include All Checkboxs\npath does not include Template\n```\n",
+      "type": "text",
+      "width": 540,
+      "x": -880,
+      "y": 100
+    },
+    {
+      "height": 720,
+      "id": "80a5fb87a9f2f083",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n> # Sábado, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).plus({ days: 6 }).toFormat(\"MMM dd\")`\n> > [!tarefas]\n> ># Sábado\n> >```tasks\n> >not done\n> >(due on this saturday) OR ((scheduled in or before this saturday) AND (due in or after this saturday))\n> >hide due date\n> >sort by priority\n> >```\n\n",
+      "type": "text",
+      "width": 400,
+      "x": 940,
+      "y": -660
+    },
+    {
+      "height": 720,
+      "id": "efe983db9423cd55",
+      "styleAttributes": {
+      },
+      "text": "> [!summary]\n># Quarta, `$= dv.date(\"today\").minus({ days: dv.date(\"today\").weekday % 7 }).plus({ days: 3 }).toFormat(\"MMM dd\")`\n> > [!tarefas]\n> >```tasks\n> >not done\n> >(due on this wednesday) OR ((scheduled in or before this wednesday) AND (due in or after this wednesday))\n> >hide due date\n> >sort by priority\n> >```\n",
+      "type": "text",
+      "width": 440,
+      "x": -500,
+      "y": -660
+    },
+    {
+      "color": "6",
+      "height": 360,
+      "id": "df91a0dbaf0d96cb",
+      "styleAttributes": {
+      },
+      "text": "# Testes\n```tasks\nnot done\nfilter by function task.status.symbol === '?'\nsort by priority\npath does not include All Checkboxs\npath does not include Template\n````\n",
+      "type": "text",
+      "width": 500,
+      "x": 300,
+      "y": 100
+    }
+  ]
+}

@@ -13,3 +13,8 @@ When we study, a lot data is important, but there is no place to fit. Let's try 
 - [Param Weight Pre Training](https://www.youtube.com/watch?v=QfFRNF5AhME)
 - [Advance Tools in SuperSpeed](https://www.youtube.com/watch?v=XwL_cRuXM2E)
 
+## Apps
+- [ide](https://www.trae.ai/)
+- [linter rabbit](https://www.coderabbit.ai/)
+- [https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai "https://github.com/unclecode/crawl4ai")
+
